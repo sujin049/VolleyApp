@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Volley Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!--Screens title-->
+    <string name="title_sign_in">LOGIN</string>
+    <string name="title_home">VOLLEY DEMO</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="email">rock.sujin@gmail.com</string>
+    <string name="password">1234567890</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading</string>
+
+    <!--Local Font Name-->
+    <string name="font_opensans_regular">fonts/opensans-regular.ttf</string>
+    <string name="font_opensans_semi_bold">fonts/opensans-regular_bold.ttf</string>
+    <string name="font_opensans_bold">fonts/opensans-semibold.ttf</string>
+
+</resources>

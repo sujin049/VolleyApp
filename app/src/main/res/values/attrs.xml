@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fontSource" format="reference|string" />
+
+    <!-- AppTextView Attributes -->
+    <declare-styleable name="AppTextView">
+        <attr name="fontSource" />
+    </declare-styleable>
+</resources>
